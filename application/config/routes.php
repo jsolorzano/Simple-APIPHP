@@ -56,5 +56,6 @@ $route['translate_uri_dashes'] = FALSE;
 /* empleados */
 $route['empleados'] = 'CEmpleados';
 $route['empleados/register'] = 'CEmpleados/register';
-$route['empleados/edit/(:num)'] = 'CEmpleados/edit/$1';
-$route['empleados/delete/(:num)'] = 'CEmpleados/delete/$1';
+$route['empleados/details'] = 'CEmpleados/details';
+$route['empleados/save'] = 'CEmpleados/save';
+$route['empleados/delete'] = 'CEmpleados/delete';
