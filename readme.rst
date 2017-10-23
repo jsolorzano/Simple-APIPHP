@@ -3,7 +3,7 @@ What is Simple-APIPHP
 ###################
 
 Simple-APIPHP es una interfaz de programación de aplicaciones especialmente desarrollada como soporte back-end del proyecto `SLOE
-<https://codeigniter.com/download>`_.
+<https://github.com/jsolorzano/SLOE>`_.
 
 *******************
 Release Information
